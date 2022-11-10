@@ -36,12 +36,12 @@
          
   2. leetcode 144 （preorder）
   3. leetcode 94 （inorder） 字形上下，先stack全左，再一个个判断右
-  4. leetcode 145 （post）
+  4. leetcode 145 （post）倒着的preorder + recursion
   
-  5. leetcode 107
-  6. leetcode 102
-  7. leetcode 103
-  8. leetcode 637
+  5. leetcode 107 非常好! 都记得，但：每层level跟queue的长度走。有for i in range（len（queue））
+  6. leetcode 102 顺序
+  7. leetcode 103 Z形。完美子！亲爱的崽
+  8. leetcode 637 本来就没问题
   9. leetcode 314
   
   
